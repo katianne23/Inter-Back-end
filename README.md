@@ -1,11 +1,11 @@
 # Inter-Back-end
 Projeto semana front-end  Inter
 
-## Requisitos e ambiente 
+## Requisitos Ultilizados
 
 - Visual Studio Code
   Extensões:
-- Insomnia ou Postman
+- Insomnia
 
 
 ---
